@@ -1,0 +1,45 @@
+body{
+    background-image: url("https://t2.tudocdn.net/199455?w=1920");
+    font-family: Georgia, 'Times New Roman', Times, serif; /* alterar fonte */
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-size: 35px;
+ }
+ 
+ a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+ }
+ 
+ a:hover {
+    text-decoration: underline;
+ }
+ 
+ .menu ul {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+ }
+
+ .menu li {
+    list-style: none;
+ }
+
+ div {
+    width: 300px;
+    border: 15px solid rgb(7, 7, 7);
+    padding: 50px;
+    margin: 20px;
+ }
+
+ p{
+    color: white;
+ }
+
+h1{
+    color: white;
+}
+
+h2{
+    color: white;
+}
